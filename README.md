@@ -2,7 +2,7 @@
 <br>
 <p>Proyecto en desarrollo sobre el desafio de Alura Oracle Next Education, donde
 Se realiza un convertidor de moneda, de Pesos Mexicanos a diferentes divisas y viceversa. 
-De igual manera en el conversor de temperatura encontramos la conversion de grados centigrados a Farenheit y Kelvin
+De igual manera en el conversor de temperatura encontramos la conversion de grados centigrados a grados Farenheit y Kelvin
 </p>
 
 ![image](https://github.com/MiguelFOlivar/ChallengeConversor/assets/91326484/3b664f13-47d6-40af-835d-aa578409e62e)
